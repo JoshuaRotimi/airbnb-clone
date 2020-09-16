@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5cd8cbf-5a26-46f0-8105-4366fb1b66ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CSS/Banner.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CSS/Card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CSS/Footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CSS/Header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CSS/Home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CSS/Search.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CSS/SearchPage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CSS/SearchResult.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Banner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/SearchPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/SearchResult.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-    </list>
+    <list default="true" id="f5cd8cbf-5a26-46f0-8105-4366fb1b66ab" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600257459812</updated>
-      <workItem from="1600257464673" duration="13369000" />
+      <workItem from="1600257464673" duration="13570000" />
     </task>
     <servers />
   </component>
